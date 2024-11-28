@@ -17,13 +17,14 @@ The objective of this project is to design and develop a robust, scalable, and e
 
 
 Approach:
-•	Amazon RDS     : Student NRS 
+
+•	Amazon RDS        : Student NRS 
 •	Amazon S3         : Academic Calendar 
-•	Aws Lambda       : Semester Timetable , Mid term marks
-•	Aws DynamoDB : Result Management
-•	Aws SNS             : Notifications
-•	Aws Iot Core       : Cumulative Attendance Tracking
-•	Aws S3                : Syllabus Repository
+•	Aws Lambda        : Semester Timetable , Mid term marks
+•	Aws DynamoDB      : Result Management
+•	Aws SNS           : Notifications
+•	Aws Iot Core      : Cumulative Attendance Tracking
+•	Aws S3            : Syllabus Repository
 
 
 
@@ -31,6 +32,7 @@ Approach:
 
 
 Expected Outcomes:
+
 •	Seamless integration with existing administrative processes.
 •	Efficient website for the college examination branch.
 •	Leveraging Amazon Web Services (AWS) to optimize performance, security, and user experience.
@@ -42,6 +44,7 @@ Expected Outcomes:
 
 
 Keywords:
+
 •	AWS Services
 •	Amazon S3
 •	Amazon EC2
