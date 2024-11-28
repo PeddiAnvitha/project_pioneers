@@ -20,7 +20,7 @@ Approach:
 
 •	Amazon RDS        : Student NRS                         
 •	Amazon S3         : Academic Calendar                   
-•	Aws Lambda        : Semester Timetable , Mid term marks
+•	Aws Lambda        : Semester Timetable , Mid term marks               
 •	Aws DynamoDB      : Result Management                  
 •	Aws SNS           : Notifications                      
 •	Aws Iot Core      : Cumulative Attendance Tracking     
@@ -33,9 +33,9 @@ Approach:
 
 Expected Outcomes:
 
-•	Seamless integration with existing administrative processes.
-•	Efficient website for the college examination branch.
-•	Leveraging Amazon Web Services (AWS) to optimize performance, security, and user experience.
+•	Seamless integration with existing administrative processes.                               
+•	Efficient website for the college examination branch.                                      
+•	Leveraging Amazon Web Services (AWS) to optimize performance, security, and user experience.                    
 •	Provides security , scalability , robustness.
 
 
@@ -45,12 +45,12 @@ Expected Outcomes:
 
 Keywords:
 
-•	AWS Services
-•	Amazon S3
-•	Amazon EC2
-•	AWS DynamoDB
-•	Online exam portal
-•	AWS Lambda
+•	AWS Services             
+•	Amazon S3                
+•	Amazon EC2               
+•	AWS DynamoDB             
+•	Online exam portal       
+•	AWS Lambda               
 •	Data security and privacy
-•	User experience
-•	Data backup
+•	User experience          
+•	Data backup              
