@@ -18,13 +18,13 @@ The objective of this project is to design and develop a robust, scalable, and e
 
 Approach:
 
-•	Amazon RDS        : Student NRS 
-•	Amazon S3         : Academic Calendar 
+•	Amazon RDS        : Student NRS                         
+•	Amazon S3         : Academic Calendar                   
 •	Aws Lambda        : Semester Timetable , Mid term marks
-•	Aws DynamoDB      : Result Management
-•	Aws SNS           : Notifications
-•	Aws Iot Core      : Cumulative Attendance Tracking
-•	Aws S3            : Syllabus Repository
+•	Aws DynamoDB      : Result Management                  
+•	Aws SNS           : Notifications                      
+•	Aws Iot Core      : Cumulative Attendance Tracking     
+•	Aws S3            : Syllabus Repository                
 
 
 
